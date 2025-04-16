@@ -21,9 +21,11 @@ In the root directory of your project, create a file named `.env` and add the fo
 PORT=5000
 MONGO_URI="your_mongodb_connection_string_here"
 
-
+```
+# install all requirement packages
 npm i
 
+#Run
 npm start
 
 test on postman
